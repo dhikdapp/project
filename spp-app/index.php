@@ -62,7 +62,6 @@
                                 <button name="submit" class="au-btn au-btn--block au-btn--green m-b-20" type="submit">sign in</button>
 
                             </form>
-                            <br><center><p>Repost by <a href='https://stokcoding.com/' title='StokCoding.com' target='_blank'>StokCoding.com</a></p></center>
 
                          <!-- Login -->
                          <?php $pro->login("username", "password", "submit"); ?>
